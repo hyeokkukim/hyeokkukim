@@ -1,6 +1,6 @@
 ## Thanks for visiting my github 👋 
 
-I'm Hyeokku Kim, former fund manager and currently studying data science at university of seoul. I have specialized domain knowledge in finance and leading lots of project from data crawling to modeling. Usually I'm working with python but I have work experience with SQL and R. Here are my specific projects and blog articles. Thanks for enjoy!   
+I'm Hyeokku Kim, former fund manager and currently studying data science at university of seoul. I have specialized domain knowledge in finance and leading lots of project from data crawling to modeling. Usually I'm working with python but I have work experience with SQL and R. Here are my specific projects and blog articles. Thanks for enjoying!   
 
 ### Notable Projects
 - [Crypto risk valuation](https://precious-snake-7a0.notion.site/be3bc299ae0b4824a432f7a613d5670b)
